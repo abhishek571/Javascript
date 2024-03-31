@@ -1,0 +1,43 @@
+/* h1{
+    color: blue;
+}
+
+body{
+    background-color: aqua;
+} */
+
+/* .mydiv{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aqua;
+} */
+
+/* .tobi{
+    color: red;
+}
+
+.newtobi{
+    background-color: aquamarine
+} */
+
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: aqua;
+}
